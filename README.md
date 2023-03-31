@@ -11,4 +11,4 @@ Para utilizar o programa, basta inserir as notas dos cinco exames do candidato q
 
 Aviso importante: certifique-se de que as notas inseridas estejam no intervalo de 0 a 10.
 
-Aproveite o programa e boa sorte na certificação!
+Aproveite o programa!
