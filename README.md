@@ -26,11 +26,17 @@ A classificação do interessado é determinada pelas seguintes regras:
 ## Exemplo de uso
 
 Digite o nome do interessado: Camargo
+
 Digite a nota do exame I: 8
+
 Digite a nota do exame II: 7
+
 Digite a nota do exame III: 5
+
 Digite a nota do exame IV: 9
+
 Digite a nota do exame V: 6
+
 Camargo foi classificado como B.
 
 
